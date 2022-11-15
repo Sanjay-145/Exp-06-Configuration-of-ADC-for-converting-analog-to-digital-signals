@@ -1,5 +1,5 @@
 # Experiment 06
-#Configuration-of-ADC-for-converting-analog-to-digital-signals
+# Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 ### Name :	P.Sanjay
 ### Roll no: 212220230042
